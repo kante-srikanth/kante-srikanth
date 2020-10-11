@@ -22,29 +22,30 @@
 # REPO'S
 
 <a href="">
-<img height="130" width="260" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kante-srikanth&repo=Live-chat&theme=react"  />
+<img height="130" width="310" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kante-srikanth&repo=Live-chat&theme=react"  />
 </a>
 <a href="">
-<img height="130" width="260" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kante-srikanth&repo=Teams-messenger&theme=react"  />
+<img height="130" width="310" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kante-srikanth&repo=Teams-messenger&theme=react"  />
 </a>
 <a href="">
-<img height="130" width="260" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kante-srikanth&repo=MERN-Application&theme=react"  />
+<img height="130" width="310" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kante-srikanth&repo=MERN-Application&theme=react"  />
 </a>
 <a href="">
-<img height="130" width="260" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kante-srikanth&repo=Chrome-extension&theme=react"  />
+<img height="130" width="310" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kante-srikanth&repo=Chrome-extension&theme=react"  />
 </a>
 <a href="">
-<img height="130" width="260" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kante-srikanth&repo=React-chat-component&theme=react"  />
+<img height="130" width="310" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kante-srikanth&repo=React-chat-component&theme=react"  />
 </a>
 <a href="">
-<img height="130" width="260" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kante-srikanth&repo=Payment-gateway&theme=react"  />
+<img height="130" width="310" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kante-srikanth&repo=Payment-gateway&theme=react"  />
 </a>
 <a href="">
-<img height="130" width="260" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kante-srikanth&repo=Stripe-payment-gateway&theme=react"  />
+<img height="130" width="310" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kante-srikanth&repo=Stripe-payment-gateway&theme=react"  />
 </a>
 <a href="">
-<img height="130" width="260" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kante-srikanth&repo=Web-components&theme=react"  />
+<img height="130" width="310" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kante-srikanth&repo=Web-components&theme=react"  />
 </a>
+
 # STATS
 
 <a href="">
