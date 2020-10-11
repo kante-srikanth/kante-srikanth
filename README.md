@@ -21,6 +21,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kante-srikanth&theme=radical&layout=compact&langs_count=10&exclude_repo=Learning-ML)
 
+<!-- ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kante-srikanth)] -->
+
+
 
 
 
