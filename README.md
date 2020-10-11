@@ -19,6 +19,34 @@
 
 <!-- ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kante-srikanth)] -->
 
+# REPO'S
+
+<a href="">
+<img height="100" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kante-srikanth&repo=Live-chat&theme=react"  />
+</a>
+<a href="">
+<img height="100" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kante-srikanth&repo=Teams-messenger&theme=react"  />
+</a>
+<a href="">
+<img height="100" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kante-srikanth&repo=MERN-Application&theme=react"  />
+</a>
+<a href="">
+<img height="100" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kante-srikanth&repo=Chrome-extension&theme=react"  />
+</a>
+<a href="">
+<img height="100" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kante-srikanth&repo=React-chat-component&theme=react"  />
+</a>
+<a href="">
+<img height="100" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kante-srikanth&repo=Payment-gateway&theme=react"  />
+</a>
+<a href="">
+<img height="100" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kante-srikanth&repo=Stripe-payment-gateway&theme=react"  />
+</a>
+<a href="">
+<img height="100" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kante-srikanth&repo=Web-components&theme=react"  />
+</a>
+
+# STATS
 
 <a href="">
   <img align="center" height="160" src="https://github-readme-stats.vercel.app/api?username=kante-srikanth&custom_title=Github-stats&theme=radical&show_icons=true&count_private=true&hide=issues,contribs" />
