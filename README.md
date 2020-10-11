@@ -8,7 +8,11 @@
 - 📫 How to reach me **kantesrikanth@gmail.com**
 
 <p align="left">
-<h3 align="left">Connect with me:</h3>
+  
+```
+  Connect with me
+```
+
 <a href="https://twitter.com/kantesrikanth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="kantesrikanth" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/srikanthkante/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/srikanthkante/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/10530055" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="10530055" height="30" width="40" /></a>
