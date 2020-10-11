@@ -49,13 +49,13 @@
 <img height="100" width="270" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kante-srikanth&cache_seconds=1800&repo=Payment-gateway&theme=react"  />
 </a>
 
+<br/><br/>
 
 > ### STATS
 
 <a href="">
   <img align="center" height="160" src="https://github-readme-stats.vercel.app/api?username=kante-srikanth&custom_title=Github-stats&theme=radical&show_icons=true&count_private=true&hide=issues,contribs" />
 </a>
-
 <a href="">
   <img align="center" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kante-srikanth&theme=radical&layout=compact&langs_count=10&exclude_repo=Learning-ML" />
 </a>
