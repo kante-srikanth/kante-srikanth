@@ -27,7 +27,3 @@
 <a href="">
   <img align="center" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kante-srikanth&theme=radical&layout=compact&langs_count=10&exclude_repo=Learning-ML" />
 </a>
-
-
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kante-srikanth&repo=Learning-ML)
-
