@@ -48,7 +48,6 @@
 <a href="https://github.com/kante-srikanth/Payment-gateway">
 <img height="100" width="270" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kante-srikanth&cache_seconds=1800&repo=Payment-gateway&theme=react"  />
 </a>
-
 <br/><br/>
 
 > ### STATS
