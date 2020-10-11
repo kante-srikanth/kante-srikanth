@@ -19,7 +19,7 @@
 
 <!-- ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kante-srikanth)] -->
 
-### REPO'S
+> ### REPO'S
 
 <a href="https://github.com/kante-srikanth/Live-chat">
 <img height="130" width="310" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kante-srikanth&cache_seconds=1800&repo=Live-chat&theme=react"  />
@@ -46,7 +46,7 @@
 <img height="130" width="310" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kante-srikanth&cache_seconds=1800&repo=Web-components&theme=react"  />
 </a>
 
-### STATS
+> ### STATS
 
 <a href="">
   <img align="center" height="160" src="https://github-readme-stats.vercel.app/api?username=kante-srikanth&custom_title=Github-stats&theme=radical&show_icons=true&count_private=true&hide=issues,contribs" />
