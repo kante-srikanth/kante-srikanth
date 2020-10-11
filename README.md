@@ -21,9 +21,9 @@
 
 
 <a href="">
-  <img align="center" height="60%" src="https://github-readme-stats.vercel.app/api?username=kante-srikanth&custom_title=Github-stats&theme=radical&show_icons=true&count_private=true&hide=issues,contribs" />
+  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=kante-srikanth&custom_title=Github-stats&theme=radical&show_icons=true&count_private=true&hide=issues,contribs" />
 </a>
 
 <a href="">
-  <img align="center" height="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kante-srikanth&theme=radical&layout=compact&langs_count=10&exclude_repo=Learning-ML" />
+  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kante-srikanth&theme=radical&layout=compact&langs_count=10&exclude_repo=Learning-ML" />
 </a>
