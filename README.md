@@ -21,29 +21,29 @@
 
 # REPO'S
 
-<a href="https://github.com/kante-srikanth/Live-chat">
-<img height="130" width="310" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kante-srikanth&repo=Live-chat&theme=react"  />
+<a href="https://github.com/kante-srikanth&cache_seconds=1800/Live-chat">
+<img height="130" width="310" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kante-srikanth&cache_seconds=1800&repo=Live-chat&theme=react"  />
 </a>
-<a href="https://github.com/kante-srikanth/Teams-messenger">
-<img height="130" width="310" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kante-srikanth&repo=Teams-messenger&theme=react"  />
+<a href="https://github.com/kante-srikanth&cache_seconds=1800/Teams-messenger">
+<img height="130" width="310" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kante-srikanth&cache_seconds=1800&repo=Teams-messenger&theme=react"  />
 </a>
-<a href="https://github.com/kante-srikanth/MERN-Application">
-<img height="130" width="310" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kante-srikanth&repo=MERN-Application&theme=react"  />
+<a href="https://github.com/kante-srikanth&cache_seconds=1800/MERN-Application">
+<img height="130" width="310" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kante-srikanth&cache_seconds=1800&repo=MERN-Application&theme=react"  />
 </a>
-<a href="https://github.com/kante-srikanth/Chrome-extension">
-<img height="130" width="310" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kante-srikanth&repo=Chrome-extension&theme=react"  />
+<a href="https://github.com/kante-srikanth&cache_seconds=1800/Chrome-extension">
+<img height="130" width="310" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kante-srikanth&cache_seconds=1800&repo=Chrome-extension&theme=react"  />
 </a>
-<a href="https://github.com/kante-srikanth/React-chat-component">
-<img height="130" width="310" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kante-srikanth&repo=React-chat-component&theme=react"  />
+<a href="https://github.com/kante-srikanth&cache_seconds=1800/React-chat-component">
+<img height="130" width="310" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kante-srikanth&cache_seconds=1800&repo=React-chat-component&theme=react"  />
 </a>
-<a href="https://github.com/kante-srikanth/Payment-gateway">
-<img height="130" width="310" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kante-srikanth&repo=Payment-gateway&theme=react"  />
+<a href="https://github.com/kante-srikanth&cache_seconds=1800/Payment-gateway">
+<img height="130" width="310" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kante-srikanth&cache_seconds=1800&repo=Payment-gateway&theme=react"  />
 </a>
-<a href="https://github.com/kante-srikanth/Stripe-payment-gateway">
-<img height="130" width="310" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kante-srikanth&repo=Stripe-payment-gateway&theme=react"  />
+<a href="https://github.com/kante-srikanth&cache_seconds=1800/Stripe-payment-gateway">
+<img height="130" width="310" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kante-srikanth&cache_seconds=1800&repo=Stripe-payment-gateway&theme=react"  />
 </a>
-<a href="https://github.com/kante-srikanth/Web-components">
-<img height="130" width="310" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kante-srikanth&repo=Web-components&theme=react"  />
+<a href="https://github.com/kante-srikanth&cache_seconds=1800/Web-components">
+<img height="130" width="310" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kante-srikanth&cache_seconds=1800&repo=Web-components&theme=react"  />
 </a>
 
 # STATS
