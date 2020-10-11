@@ -28,7 +28,7 @@
 <img height="130" width="310" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kante-srikanth&cache_seconds=1800&repo=Live-chat&theme=react"  />
 </a>
 <a href="https://github.com/kante-srikanth/Teams-messenger">
-<img height="130" width="310" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kante-srikanth&cache_seconds=1800&repo=Teams-messenger&theme=react"  />
+<img height="130" width="310" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kante-srikanth&cache_seconds=1000&repo=Teams-messenger&theme=react"  />
 </a>
 <a href="https://github.com/kante-srikanth/MERN-Application">
 <img height="130" width="310" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kante-srikanth&cache_seconds=1800&repo=MERN-Application&theme=react"  />
