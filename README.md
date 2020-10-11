@@ -19,7 +19,7 @@
 
 ![Srikanth github stats](https://github-readme-stats.vercel.app/api?username=kante-srikanth&custom_title=Github-stats&theme=radical&show_icons=true&count_private=true&hide=issues,contribs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kante-srikanth&layout=compact&langs_count=10&exclude_repo=Learning-ML)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kante-srikanth&theme=radical&layout=compact&langs_count=10&exclude_repo=Learning-ML)
 
 
 
