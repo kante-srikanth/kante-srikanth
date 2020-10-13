@@ -3,7 +3,7 @@
 
 - 🔭 Currently working on **React open source project.**
 
-- 👨‍💻 All of my pilot projects are available at [https://github.com/kante-srikanth](https://github.com/kante-srikanth)
+- 👨‍💻 All of my pilot projects are available at [https://github.com/kante-srikanth](https://github.com/kante-srikanth?tab=repositories)
 
 - 📫 Reach me @ **kantesrikanth@gmail.com**
 
