@@ -24,7 +24,7 @@
 
 > ### REPO'S
 
-<a href="https://github.com/kante-srikanth/kante-srikanth.github.io">
+<a href="https://kante-srikanth.github.io/">
 <img height="100" width="270" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kante-srikanth&cache_seconds=1800&repo=kante-srikanth.github.io&theme=react"  />
 </a>
 <a href="https://github.com/kante-srikanth/Live-chat">
