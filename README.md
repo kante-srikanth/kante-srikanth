@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srikanth Kante</h1>
-<h3 align="center">A passionate Frontend developer from Hyderabad, India.</h3>
+<h3 align="center">Passionate Frontend developer from Hyderabad, India.</h3>
 
 - 🔭 Currently working on **React open source project.**
 
