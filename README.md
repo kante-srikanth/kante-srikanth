@@ -8,7 +8,7 @@
 - 📫 Reach me @ **kantesrikanth@gmail.com**
 
 
-# - 💼 For more info visit [kante-srikanth.github.io](https://kante-srikanth.github.io/) 
+<!-- - 💼 For more info visit [kante-srikanth.github.io](https://kante-srikanth.github.io/) -->
 
 <p align="left">
   
